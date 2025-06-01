@@ -1,0 +1,14 @@
+/* Subscribe button styles */
+.subscribe-btn {
+    background: #007bff;
+    padding: 10px 20px;
+    color: white;
+}
+.subscribe-btn:hover {
+    background: #0056b3;
+}
+/* Dark mode styles */
+body.dark {
+    background: #1a1a1a;
+    color: #f0f0f0;
+}
